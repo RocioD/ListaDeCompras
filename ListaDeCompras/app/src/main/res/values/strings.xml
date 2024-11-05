@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListaDeCompras</string>
+    <string name="mensaje_sin_productos">No hay productos que mostrar</string>
+    <string name="btn_crear">Crear</string>
+    <string name="label_producto">Producto</string>
+    <string name="title_activity_nuevo_producto">NuevoProducto</string>
+</resources>

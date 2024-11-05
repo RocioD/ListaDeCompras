@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mensaje_sin_productos">There are not products to show</string>
+    <string name="btn_crear">Create</string>
+    <string name="label_producto">Product</string>
+</resources>
